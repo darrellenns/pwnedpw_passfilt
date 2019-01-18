@@ -46,4 +46,4 @@ There are 2 types of records:
 
 ## Acknowledgments
 
-* Special thanks to Troy Hunt for created HaveIBeenPwned and the Pwned Passwords database.
+* Special thanks to Troy Hunt for creating HaveIBeenPwned and the Pwned Passwords database.
