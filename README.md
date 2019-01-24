@@ -40,7 +40,7 @@ There are 2 types of records:
 * The remaining records are simply SHA-1 hashes of passwords. The hash records must be sorted in ascending order (the same order as the "ordered by hash" file from haveibeenpwned). The hash bytes are in big endian order (no byte swapping) - same as the original ASCII representation.
 
 ### Future Improvements (TODO)
-* C++ based tool to convert PwnedPW databases into binary format.
+* Add "prevalance" filter to database conversion tool.
 * Event Logging seems to work only in development. This is possibly something to do with the System security context or LSA process that the DLL runs under on an actual DC.
 * Add a prevalence filter to DB conversion tool.
 
